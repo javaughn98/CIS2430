@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BCG
+comment1.params=
+comment1.target=BCG()
+comment2.params=string
+comment2.target=boolean\ isDigit(java.lang.String)
+comment3.params=allTheCoursesPlannedAndTaken
+comment3.target=boolean\ meetsRequirements(java.util.ArrayList)
+comment4.params=allTheCoursesPlannedAndTaken
+comment4.target=double\ numberOfCreditsRemaining(java.util.ArrayList)
+comment5.params=allTheCoursesPlannedAndTaken
+comment5.target=java.util.ArrayList\ remainingRequiredCourses(java.util.ArrayList)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=int\ hashCode()
+numComments=9

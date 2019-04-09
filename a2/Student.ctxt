@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=Student()
+comment10.params=
+comment10.target=java.lang.String\ getFirstName()
+comment11.params=
+comment11.target=java.lang.String\ getLastName()
+comment12.params=
+comment12.target=java.lang.Integer\ getStudentNumber()
+comment13.params=
+comment13.target=java.lang.String\ toString()
+comment13.text=public\ double\ totalCredits()\ {\n\ \ \ \ \ \ \ \ double\ totalCredits\ \=\ 0.0;\n\ \ \ \ \ \ \ \ for\ (Course\ c\ \:\ this.courses)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (c.getCourseStatus()\ \!\=\ null\ &&\ c.getCourseStatus().equals("Completed"))\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ totalCredits\ +\=\ c.getCourseCredit();\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ totalCredits;\n}
+comment14.params=o
+comment14.target=boolean\ equals(java.lang.Object)
+comment15.params=
+comment15.target=int\ hashCode()
+comment2.params=plannedCourses
+comment2.target=void\ setPlannedCourses(java.util.ArrayList)
+comment2.text=\ public\ Student(String\ id,\ String\ userName)\ {\n\ \ \ \ \ \ \ DBStudent\ stud\ \=\ MC.loadStudent(id,\ userName);\n\ \ \ \ \ \ \ String\ token[]\ \=\ stud.getName().split("\ ");\n\ \ \ \ \ \ \ System.out.println("Student\:\ "\ +\ token[0]\ +\ "\ "\ \ +\ token[1]);\n\ \ \ \ }\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPlannedCourses()
+comment4.params=courseAttempts
+comment4.target=void\ setCourseAttempts(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ getCourseAttempts()
+comment6.params=first
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=last
+comment7.target=void\ setLastName(java.lang.String)
+comment8.params=studentNum
+comment8.target=void\ setStudentNumber(java.lang.Integer)
+comment9.params=
+comment9.target=java.lang.String\ getFullName()
+numComments=16

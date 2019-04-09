@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SelectDegree
+comment0.text=\n\ Write\ a\ description\ of\ class\ SelectDegree\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=newStudent\ newConnect
+comment1.target=SelectDegree(DBaseConnector.DBStudent,\ DBaseConnector.MyConnection)
+comment2.params=newStudent
+comment2.target=void\ switchStudPlan(DBaseConnector.DBStudent)
+numComments=3

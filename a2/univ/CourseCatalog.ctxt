@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CourseCatalog
+comment1.params=
+comment1.target=CourseCatalog()
+comment10.params=
+comment10.target=int\ hashCode()
+comment2.params=toAdd
+comment2.target=void\ addCourse(Course)
+comment3.params=toRemove
+comment3.target=void\ removeCourse(Course)
+comment4.params=courseCode
+comment4.target=Course\ findCourse(java.lang.String)
+comment5.params=
+comment5.target=java.lang.Boolean\ isEmpty()
+comment6.params=
+comment6.target=void\ saveCatalog()
+comment7.params=filename
+comment7.target=void\ initializeCatalog(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=11

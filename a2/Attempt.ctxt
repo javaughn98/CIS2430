@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Attempt
+comment0.text=\n\ Write\ a\ description\ of\ class\ Attempt\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Attempt()
+comment10.params=o
+comment10.target=boolean\ equals(java.lang.Object)
+comment2.params=attemptGrade\ semesterTaken\ courseAttempted
+comment2.target=Attempt(java.lang.String,\ java.lang.String,\ univ.Course)
+comment3.params=attemptGrade
+comment3.target=void\ setAttemptGrade(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAttemptGrade()
+comment5.params=semesterTaken
+comment5.target=void\ setSemesterTaken(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getSemesterTaken()
+comment7.params=courseAttempted
+comment7.target=void\ setCourseAttempted(univ.Course)
+comment8.params=
+comment8.target=univ.Course\ getCourseAttempted()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

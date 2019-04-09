@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AdminMode
+comment0.text=\n\ Write\ a\ description\ of\ class\ AdminMode\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=plannerFrame
+comment1.target=AdminMode(javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ switchPlan()
+numComments=3

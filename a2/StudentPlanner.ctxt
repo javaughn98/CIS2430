@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StudentPlanner
+comment0.text=\n\ Write\ a\ description\ of\ class\ StudentPlanner\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=degreeFrame\ newStudent\ newConnect
+comment1.target=StudentPlanner(javax.swing.JFrame,\ DBaseConnector.DBStudent,\ DBaseConnector.MyConnection)
+comment2.params=dbs\ st
+comment2.target=void\ splitUserName(DBaseConnector.DBStudent,\ Student)
+comment3.params=dbs\ st
+comment3.target=java.util.ArrayList\ parseCourses(DBaseConnector.DBStudent,\ Student)
+comment4.params=s
+comment4.target=Student\ DBStudentToStudent(DBaseConnector.DBStudent)
+comment5.params=s
+comment5.target=DBaseConnector.DBStudent\ StudentToDBStudent(Student)
+numComments=6

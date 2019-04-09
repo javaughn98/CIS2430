@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Degree
+comment1.params=
+comment1.target=Degree()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=o
+comment11.target=boolean\ equals(java.lang.Object)
+comment12.params=
+comment12.target=int\ hashCode()
+comment2.params=
+comment2.target=void\ saveState()
+comment3.params=title
+comment3.target=void\ setDegreeTitle(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDegreeTitle()
+comment5.params=listOfRequiredCourseCodes
+comment5.target=void\ setRequiredCourses(java.util.ArrayList)
+comment6.params=
+comment6.target=java.util.ArrayList\ getRequiredCourses()
+comment7.params=allTheCoursesPlannedAndTaken
+comment7.target=boolean\ meetsRequirements(java.util.ArrayList)
+comment8.params=allTheCoursesPlannedAndTaken
+comment8.target=double\ numberOfCreditsRemaining(java.util.ArrayList)
+comment9.params=allTheCoursesPlannedAndTaken
+comment9.target=java.util.ArrayList\ remainingRequiredCourses(java.util.ArrayList)
+numComments=13

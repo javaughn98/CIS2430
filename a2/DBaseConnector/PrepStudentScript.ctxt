@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PrepStudentScript
+comment1.params=fullyResetTables
+comment1.target=PrepStudentScript(boolean)
+comment1.text=\n\ The\ function\ which\ builds\ your\ Courses\ and\ SavedStudent\ tables\n\ \n\ @param\ fullyResetTables\ If\ true,\ the\ tables\ will\ be\ completely\ deleted\ and\ new\ tables\ made.\n
+comment2.params=n\ p
+comment2.target=void\ deleteT(java.lang.String,\ java.lang.String)
+comment3.params=n\ p
+comment3.target=void\ runSript(java.lang.String,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
